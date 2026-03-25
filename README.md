@@ -8,6 +8,20 @@ Tensorflow image detection and object detection
 
 
 
+-----------
+-----------
+
+``` txt
+
+Json file for building
+a image to generate
+person stand 2 meter
+from camera and
+used object detection
+
+
+```
+
 
 ``` json
 
